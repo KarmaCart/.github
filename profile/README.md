@@ -7,6 +7,7 @@
 Welcome to KarmaCart, a web application developed as a learning project to explore new technologies and promote sustainable shopping practices. With KarmaCart, I aimed to create a functional prototype that demonstrates my skills as a developer while addressing real-world challenges in sustainability.
 
 ## Demo
+The KarmaCart application can be accessed at [https://karma-cart.andersbuck.dev/](https://karma-cart.andersbuck.dev/). A demo gif of the application is shown here:
 **Show gif of demo here**
 
 ## Technology Stack
