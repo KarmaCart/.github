@@ -9,7 +9,7 @@ Welcome to KarmaCart, a web application developed as a learning project to explo
 ## Demo
 The KarmaCart application can be accessed at [https://karma-cart.andersbuck.dev/](https://karma-cart.andersbuck.dev/). In the demo, users can experience the barcode scanning feature, product browsing, and explore products information on ethical practices as well as their Ethical Score.
 
-**Show gif of demo here**
+![GIF of a demo of the KarmaCart web application.](https://github.com/KarmaCart/.github/blob/main/profile/KarmaCart-Demo.gif)
 
 ## Technology Stack
 
