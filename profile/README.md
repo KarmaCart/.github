@@ -1,4 +1,4 @@
-# KarmaCart: Demo Web Application
+# KarmaCart: A Sustainable Shopping Web Application Showcase
 
 ---
 
@@ -7,7 +7,8 @@
 Welcome to KarmaCart, a web application developed as a learning project to explore new technologies and promote sustainable shopping practices. With KarmaCart, I aimed to create a functional prototype that demonstrates my skills as a developer while addressing real-world challenges in sustainability.
 
 ## Demo
-The KarmaCart application can be accessed at [https://karma-cart.andersbuck.dev/](https://karma-cart.andersbuck.dev/). A demo gif of the application is shown here:
+The KarmaCart application can be accessed at [https://karma-cart.andersbuck.dev/](https://karma-cart.andersbuck.dev/). A demo of the application is shown here:
+
 **Show gif of demo here**
 
 ## Technology Stack
@@ -21,6 +22,12 @@ KarmaCart was built using a modern and robust technology stack, including:
 - **AI Consultation**: GPT-4
 
 ## Architecture
+
+- KarmaCart is deployed to individual Engineering and Production AWS Accounts that serve as separate environments for managing changes to the application.
+- GitHub actions gain temproary access using STS to execute synthesized CloudFormation from the AWS CDK.
+- Devices access static and dynamic content of the web application using CloudFront and the API Gateway.
+
+![Architecture diagram of the KarmaCart web application.](https://github.com/KarmaCart/.github/blob/main/profile/KarmaCart-AR.png)
 
 ## Skills Utilized
 
